@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Its Vikash Thakur 👋
 
 I'm a Web3 enthusiast and crypto researcher, focused on:
 - Hunting early-stage airdrops ✈️
