@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm [Your Name] 👋
 
-<!--
-**ChikuHub-cpu/ChikuHub-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web3 enthusiast and crypto researcher, focused on:
+- Hunting early-stage airdrops ✈️
+- Researching hidden crypto gems 🔍
+- Sharing legit resources with the community
 
-Here are some ideas to get you started:
+**Currently exploring:**  
+DeFi | Layer 2 projects | Governance tools | Tokenomics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- Twitter:@VikashS01425116
+- Discord:vsguar
+- Telegram:trsingh
+
+> Always researching, always sharing — DYOR!
+> 
